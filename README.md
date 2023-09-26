@@ -6,6 +6,9 @@
 Designed, implemented and shipped to production a clone of AirBnB and a Rails prototype.
 
 ## Visuals
+<img src="app/assets/images/DevifyImage1.png" width="600">
+<img src="app/assets/images/DevifyImage2.png" width="600">
+<img src="app/assets/images/DevifyImage3.png" width="600">
 
 ## Authors and acknowledgment
  Devify was the first project made by TheLoop team while studying at Le Wagon bootcamp in London.

@@ -2,8 +2,9 @@
 
 ## Description
 
- Hire your own Web Developer with a simple click! 
-Designed, implemented and shipped to production a clone of AirBnB and a Rails prototype.
+Hire your own Web Developer with a simple click! 
+The first Team Project done as a mockup for Airbnb where instead of renting places you rent Web Developers to code for you. 
+Designed implemented and shipped to production in Heroku created entirely in Ruby on Rails.
 
 ## Visuals
 <img src="app/assets/images/DevifyImage1.png" width="600">
@@ -17,6 +18,9 @@ Designed, implemented and shipped to production a clone of AirBnB and a Rails pr
 - [Johnny Wordsworth](https://github.com/Wordeu)
 - [Richard Vidor](https://github.com/rvidor)
 - [Sunny Thapa](https://github.com/Sun-tha)
- 
+
+## Dependencies
+Postgresql, Devise, Bootstrap, Simple_form and Cloudinary.
+
 ## License
 Copyright 2023 TheLoop licensed under the GNU General Public License v3.0 Image assets are licensed under xxx

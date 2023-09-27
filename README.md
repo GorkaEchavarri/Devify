@@ -3,7 +3,9 @@
 ## Description
 
 Hire your own Web Developer with a simple click! 
+
 The first Team Project done as a mockup for Airbnb where instead of renting places you rent Web Developers to code for you. 
+
 Designed implemented and shipped to production in Heroku created entirely in Ruby on Rails.
 
 ## Visuals
